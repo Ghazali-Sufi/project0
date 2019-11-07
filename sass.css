@@ -1,0 +1,30 @@
+div {
+  font-size: 28px; }
+  div .animation h1 {
+    margin: auto;
+    font-size: 50px;
+    color: #333399;
+    margin-left: 200px;
+    animation: type 5s steps(22);
+    animation-iteration-count: 100;
+    overflow: hidden;
+    white-space: nowrap;
+    letter-spacing: 3px; }
+  div h2 {
+    color: #333399;
+    margin-left: 280px;
+    font-size: 50px; }
+
+.success, .danger, .warning {
+  font-size: 25px; }
+
+.success {
+  color: green; }
+
+.danger {
+  color: red; }
+
+.warning {
+  color: orange; }
+
+/*# sourceMappingURL=sass.css.map */
